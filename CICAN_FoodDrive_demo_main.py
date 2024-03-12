@@ -94,7 +94,7 @@ def exploratory_data_analysis():
     st.plotly_chart(ward_total)
 
 # Page 3: Machine Learning Modeling
-def machine_learning_modeling():
+def machine_learning_modeling_time():
     stake_encoding = {'Edmonton North Stake' : 0,'Gateway Stake' : 1,'Riverbend Stake' : 2,'Bonnie Doon Stake' : 3,'YSA Stake' : 4}
     ward_encoding = {'Namao Ward' : 0,'Lee Ridge Ward' : 1,'Blackmud Creek Ward' : 2,'Rabbit Hill Ward' : 3,'Clareview Ward' : 4,'Crawford Plains Ward' : 5,'Silver Berry Ward' : 6,'Connors Hill Ward' : 7,'Stony Plain Ward' : 8,'Londonderry Ward' : 9,'Southgate Ward' : 10,'Greenfield Ward' : 11,'Rutherford Ward' : 12,'Griesbach Ward' : 13,'Ellerslie Ward' : 14,'Forest Heights Ward' : 15,'Coronation Park Ward' : 16,'Woodbend Ward' : 17,'Wainwright Branch' : 18,'Terwillegar Park Ward' : 19,'Rio Vista Ward' : 20,'Wild Rose Ward' : 21,'Windsor Park YSA Ward' : 22,'Strathcona Married Student Ward' : 23,'Drayton Valley Ward' : 24,'Beaumont Ward' : 25,'Belmead Ward' : 26}
 
@@ -142,7 +142,7 @@ def machine_learning_modeling():
         reg_prediction = reg_model.predict(reg_input)
         st.success(f"It will take approximately {int(reg_prediction[0]) if reg_prediction[0] < 60 else round(reg_prediction[0]/60,2)} {'minutes' if reg_prediction[0] < 60 else 'hours'} to complete {'these routes.' if routes_completed > 1 else 'this route.'}")
 
-def machine_learning_modeling_regression():
+def machine_learning_modeling_bags():
       st.title("Machine Learning Modeling")
       st.write("Enter the details to predict donation bags:")
 
@@ -170,7 +170,7 @@ def machine_learning_modeling_regression():
       # Display the equivalent data for the selected option
       if selected_option in options_data:
         selected_data = options_data[selected_option]
-        st.write(f"Data for '{selected_option}': {selected_data}")
+        # st.write(f"Data for '{selected_option}': {selected_data}")
       else:
         st.write("No data available for the selected option.")
 
@@ -193,7 +193,7 @@ def machine_learning_modeling_regression():
       # Display the equivalent data for the selected option
       if selected_option_stake in options_data_stake:
         selected_data_stake = options_data_stake[selected_option_stake]
-        st.write(f"Data for '{selected_option_stake}': {selected_data_stake}")
+        # st.write(f"Data for '{selected_option_stake}': {selected_data_stake}")
       else:
         st.write("No data available for the selected option.")
 
@@ -256,16 +256,16 @@ def chatbot():
 # Main App Logic
 def main():
     st.sidebar.title("Food Drive App")
-    app_page = st.sidebar.radio("Select a Page", ["Dashboard", "EDA", "ML Modeling Time Prediction","ML Modeling Bag Prediction", "Stake/Ward Map", "Data Collection","Chatbot"])
+    app_page = st.sidebar.radio("Select a Page", ["Dashboard", "EDA", "ML Modeling: Time Prediction","ML Modeling: Bag Prediction", "Stake/Ward Map", "Data Collection","Chatbot"])
 
     if app_page == "Dashboard":
         dashboard()
     elif app_page == "EDA":
         exploratory_data_analysis()
     elif app_page == "ML Modeling Time Prediction":
-        machine_learning_modeling()
+        machine_learning_modeling_time()
     elif app_page == "ML Modeling Bag Prediction":
-        machine_learning_modeling_regression()
+        machine_learning_modeling_bags()
     elif app_page == "Stake/Ward Map":
         neighbourhood_mapping()
     elif app_page == "Data Collection":
