@@ -141,8 +141,85 @@ def machine_learning_modeling():
         reg_input = reg_scaler.transform([[routes_completed,adult_volunteers,doors_in_route,youth_volunteers,donation_bags_collected]])
         reg_prediction = reg_model.predict(reg_input)
         st.success(f"It will take approximately {int(reg_prediction[0]) if reg_prediction[0] < 60 else round(reg_prediction[0]/60,2)} {'minutes' if reg_prediction[0] < 60 else 'hours'} to complete {'these routes.' if routes_completed > 1 else 'this route.'}")
-# Page 4: Stake/Ward Map
 
+def machine_learning_modeling_regression():
+      st.title("Machine Learning Modeling")
+      st.write("Enter the details to predict donation bags:")
+
+      # Mapping of options to their equivalent data
+      options_data = {
+      "Londonderry Chapel": 29.59322034,
+      "Gateway Stake Centre": 30.29457364,
+      "Bearspaw Chapel": 25.03571429,
+      "Bonnie Doon Stake Centre": 22.5,
+      "Coronation Park Chapel": 32.02380952,
+      "North Stake Centre": 30.20930233,
+      "Riverbend Stake Centre": 42.69444444,
+      "Parkland (Spruce Grove/Stony Plain)": 45.14285714,
+      "Morinville" : 52.5,
+      "Onoway" : 10.0
+      }
+
+      # Create a dropdown list
+      selected_option = st.selectbox(
+      "Drop Off Locations:",
+      list(options_data.keys())
+      )
+
+
+      # Display the equivalent data for the selected option
+      if selected_option in options_data:
+        selected_data = options_data[selected_option]
+        st.write(f"Data for '{selected_option}': {selected_data}")
+      else:
+        st.write("No data available for the selected option.")
+
+      # Mapping of options to their equivalent data
+      options_data_stake = {
+      "Bonnie Doon Stake": 27.515625,
+      "Gateway Stake": 28.72251309,
+      "Edmonton North Stake": 31.57723577,
+      "Riverbend Stake": 42.69444444,
+      "YSA Stake": 50.0
+      }
+
+      # Create a dropdown list
+      selected_option_stake = st.selectbox(
+      "Stake:",
+      list(options_data_stake.keys())
+      )
+
+
+      # Display the equivalent data for the selected option
+      if selected_option_stake in options_data_stake:
+        selected_data_stake = options_data_stake[selected_option_stake]
+        st.write(f"Data for '{selected_option_stake}': {selected_data_stake}")
+      else:
+        st.write("No data available for the selected option.")
+
+
+      routes_completed = st.slider("Routes Completed", 1, 10, 5)
+      time_spent = st.slider("Time Spent (minutes)", 10, 300, 60)
+      adult_volunteers = st.slider("Number of Adult Volunteers", 1, 50, 10)
+      doors_in_route = st.slider("Number of Doors in Route", 10, 500, 100)
+      youth_volunteers = st.slider("Number of Youth Volunteers", 1, 50, 10)
+
+
+    # Predict button
+      if st.button("Predict"):
+
+         # Load the trained model
+         model = joblib.load('random_forest_regressor_model_bags.pkl')
+
+          # Prepare input data for prediction
+         input_data = [[selected_data, selected_data_stake,  routes_completed, time_spent, adult_volunteers, doors_in_route, youth_volunteers]]
+
+          # Make prediction
+         prediction = model.predict(input_data)
+
+          # Display the prediction
+         st.success(f"Predicted Donation Bags: {prediction[0]}")
+# Page 4: Stake/Ward Map
 def neighbourhood_mapping():
     st.title("Stake/Ward Map")
     st.write("This is an interactive map try selecting a route, ward or stake to get more information about it!")
@@ -179,14 +256,16 @@ def chatbot():
 # Main App Logic
 def main():
     st.sidebar.title("Food Drive App")
-    app_page = st.sidebar.radio("Select a Page", ["Dashboard", "EDA", "ML Modeling", "Stake/Ward Map", "Data Collection","Chatbot"])
+    app_page = st.sidebar.radio("Select a Page", ["Dashboard", "EDA", "ML Modeling Time Prediction","ML Modeling Bag Prediction", "Stake/Ward Map", "Data Collection","Chatbot"])
 
     if app_page == "Dashboard":
         dashboard()
     elif app_page == "EDA":
         exploratory_data_analysis()
-    elif app_page == "ML Modeling":
+    elif app_page == "ML Modeling Time Prediction":
         machine_learning_modeling()
+    elif app_page == "ML Modeling Bag Prediction":
+        machine_learning_modeling_regression()
     elif app_page == "Stake/Ward Map":
         neighbourhood_mapping()
     elif app_page == "Data Collection":
