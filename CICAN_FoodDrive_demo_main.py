@@ -13,20 +13,13 @@ data = pd.read_csv('combined_data.csv', encoding='latin1')
 
 # Page 1: Dashboard
 def dashboard():
-    st.image('Logo.png', width=500, use_column_width='auto')
+    st.image('Untitled design.jpg', width=500, use_column_width='auto')
 
     st.subheader("💡 Abstract:")
     
-    inspiration = '''
-    The Edmonton Food Drive Project is focused on utilizing machine learning to optimize food donation management. It aims to improve the efficiency of drop-off and pick-up processes, enhance route planning, and optimize resource allocation for a more effective food drive campaign.
-
-    Lessons learned:
-    - No standardized processes for volunteers doing Bag Collection
-      - Volunteers had varying amounts of information about their routes
-      - Volunteers were mostly estimating the bags collected, doors in route, and time taken
-    - Missing key data collection fields
-      - Route number not being collected caused the specificity of the data to be reduced
-    - Given digital route information (as provided by the Londonderry Chapel) allows for deeper analysis into which routes/areas will yield the most bags.
+    inspiration = '''Food drives are crucial for addressing hunger and supporting vulnerable communities.
+    They provide essential sustenance to those in need, fostering a sense of community and compassion.
+    We Norquesters are super proud to be a part of the food drive.
     '''
     inspiration = open("Abstract.txt","r")
     st.markdown(inspiration.read())
