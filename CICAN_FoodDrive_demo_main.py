@@ -262,9 +262,9 @@ def main():
         dashboard()
     elif app_page == "EDA":
         exploratory_data_analysis()
-    elif app_page == "ML Modeling Time Prediction":
+    elif app_page == "ML Modeling: Time Prediction":
         machine_learning_modeling_time()
-    elif app_page == "ML Modeling Bag Prediction":
+    elif app_page == "ML Modeling: Bag Prediction":
         machine_learning_modeling_bags()
     elif app_page == "Stake/Ward Map":
         neighbourhood_mapping()
