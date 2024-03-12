@@ -231,7 +231,7 @@ def neighbourhood_mapping():
 def data_collection():
     st.title("Data Collection")
     st.write("Please fill out the Google form to contribute to our Food Drive!")
-    google_form_url = "https://forms.gle/Sif2hH3zV5fG2Q7P8"#YOUR_GOOGLE_FORM_URL_HERE
+    google_form_url = "https://docs.google.com/forms/d/e/1FAIpQLSdorTNQhJQ08pOFppD9zLWVoaHBmA33EIGYkDOJCA4_f5ru6A/viewform"#YOUR_GOOGLE_FORM_URL_HERE
     st.markdown(f"[Fill out the form]({google_form_url})")
 
 # Page 6: Chatbot
