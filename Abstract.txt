@@ -1,0 +1,2 @@
+The Edmonton Food Drive Project is focused on utilizing machine learning to optimize food donation management. It aims to improve the efficiency of drop-off and pick-up processes, enhance route planning, and optimize resource allocation for a more effective food drive campaign.
+

@@ -1,0 +1,2 @@
+
+Our project involves the development of a Machine Learning model designed to estimate whether a given route or set of routes will take longer than an hour to complete. This initiative aims to enhance the analysis of routes, offering valuable insights. Additionally, by providing volunteers with more information about the expected duration of a specific route, our project contributes to better decision-making.
