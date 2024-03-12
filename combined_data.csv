@@ -1,0 +1,505 @@
+Date,Stake,Ward/Branch,# of Adult Volunteers,# of Youth Volunteers,Donation Bags Collected,Time to Complete (min),Routes Completed,Doors in Route,Time Spent,Bags/Door,Bags/Route,Total Volunteers,Neighbourhood,ID
+2023-09-23 12:53:43,Edmonton North Stake,Namao Ward,2,2,145,150,5,2500,150,0.058,29.0,4,Namao,1
+2023-09-23 13:23:10,Edmonton North Stake,Namao Ward,1,4,24,40,1,211,40,0.1137440758293838,24.0,5,Namao,2
+2023-09-23 13:55:30,Gateway Stake,Lee Ridge Ward,3,2,68,112,3,466,145,0.1459227467811159,22.666666666666668,5,Lee Ridge,3
+2023-09-23 11:47:31,Gateway Stake,Blackmud Creek Ward,2,0,35,60,1,148,120,0.2364864864864864,35.0,2,Blackmud Creek,4
+2023-09-23 12:41:37,Riverbend Stake,Rabbit Hill Ward,3,1,100,105,2,80,105,1.25,50.0,4,Rabbit Hill,5
+2023-09-23 10:36:10,Bonnie Doon Stake,Clareview Ward,1,3,14,25,1,14,25,1.0,14.0,4,Clareview,6
+2023-09-23 10:36:52,Gateway Stake,Crawford Plains Ward,3,1,18,25,2,144,30,0.125,9.0,4,Crawford Plains,7
+2023-09-23 10:40:22,Gateway Stake,Silver Berry Ward,2,0,20,30,1,186,30,0.1075268817204301,20.0,2,Silver Berry,8
+2023-09-23 10:41:08,Gateway Stake,Crawford Plains Ward,2,0,20,25,1,195,30,0.1025641025641025,20.0,2,Crawford Plains,9
+2023-09-23 10:53:37,Bonnie Doon Stake,Connors Hill Ward,1,2,30,30,1,300,30,0.1,30.0,3,Connors Hill,10
+2023-09-23 10:48:19,Gateway Stake,Blackmud Creek Ward,2,0,20,20,1,179,20,0.1117318435754189,20.0,2,Blackmud Creek,11
+2023-09-24 07:41:33,Edmonton North Stake,Stony Plain Ward,1,0,16,30,1,195,30,0.082051282051282,16.0,1,Stony Plain,12
+2023-09-23 10:58:47,Bonnie Doon Stake,Clareview Ward,2,3,24,45,3,250,45,0.096,8.0,5,Clareview,13
+2023-09-23 10:55:58,Bonnie Doon Stake,Londonderry Ward,3,2,20,40,1,107,40,0.1869158878504672,20.0,5,Londonderry,14
+2023-09-23 10:52:50,Bonnie Doon Stake,Southgate Ward,2,3,15,45,1,13,35,1.1538461538461535,15.0,5,Southgate,15
+2023-09-23 10:50:22,Gateway Stake,Lee Ridge Ward,1,4,17,25,1,141,22,0.1205673758865248,17.0,5,Lee Ridge,16
+2023-09-23 10:51:58,Bonnie Doon Stake,Londonderry Ward,2,0,100,5,2,200,49,0.5,50.0,2,Londonderry,17
+2023-09-23 11:09:47,Riverbend Stake,Greenfield Ward,2,0,30,50,1,172,50,0.1744186046511628,30.0,2,Greenfield,18
+2023-09-23 11:38:06,Riverbend Stake,Rutherford Ward,1,2,18,40,1,14,40,1.2857142857142858,18.0,3,Rutherford,19
+2023-09-23 11:24:00,Edmonton North Stake,Griesbach Ward,2,0,9,20,1,100,20,0.09,9.0,2,Griesbach,20
+2023-09-23 11:23:00,Bonnie Doon Stake,Londonderry Ward,2,0,20,35,1,100,40,0.2,20.0,2,Londonderry,21
+2023-09-23 11:23:31,Gateway Stake,Ellerslie Ward,2,1,22,50,1,191,50,0.1151832460732984,22.0,3,Ellerslie,22
+2023-09-23 11:03:09,Bonnie Doon Stake,Forest Heights Ward,2,2,10,20,2,120,20,0.0833333333333333,5.0,4,Forest Heights,23
+2023-09-23 11:03:03,Bonnie Doon Stake,Londonderry Ward,2,0,16,25,1,98,25,0.1632653061224489,16.0,2,Londonderry,24
+2023-09-23 10:56:13,Bonnie Doon Stake,Coronation Park Ward,2,1,25,55,1,20,55,1.25,25.0,3,Coronation Park,25
+2023-09-23 11:53:00,Riverbend Stake,Greenfield Ward,2,1,48,44,2,208,44,0.2307692307692307,24.0,3,Greenfield,26
+2023-09-23 11:19:28,Riverbend Stake,Rabbit Hill Ward,4,2,59,60,2,236,60,0.25,29.5,6,Rabbit Hill,27
+2023-09-23 11:17:13,Riverbend Stake,Rabbit Hill Ward,2,3,22,30,1,80,40,0.275,22.0,5,Rabbit Hill,28
+2023-09-23 19:54:53,Riverbend Stake,Greenfield Ward,2,10,29,40,3,200,40,0.145,9.666666666666666,12,Greenfield,29
+2023-09-23 11:53:13,Riverbend Stake,Woodbend Ward,1,2,40,30,1,220,30,0.1818181818181818,40.0,3,Woodbend,30
+2023-09-23 12:44:29,Riverbend Stake,Woodbend Ward,2,3,88,40,1,380,15,0.231578947368421,88.0,5,Woodbend,31
+2023-09-24 21:45:56,Edmonton North Stake,Stony Plain Ward,2,0,140,30,1,130,60,1.0769230769230769,140.0,2,Stony Plain,32
+2023-09-23 11:11:38,Edmonton North Stake,Griesbach Ward,2,3,29,60,1,107,60,0.2710280373831775,29.0,5,Griesbach,33
+2023-09-23 11:09:16,Edmonton North Stake,Griesbach Ward,2,1,21,45,1,206,45,0.1019417475728155,21.0,3,Griesbach,34
+2023-09-23 11:09:20,Edmonton North Stake,Griesbach Ward,1,1,23,45,1,206,45,0.1116504854368932,23.0,2,Griesbach,35
+2023-09-23 12:08:36,Edmonton North Stake,Griesbach Ward,1,5,16,30,1,120,30,0.1333333333333333,16.0,6,Griesbach,36
+2023-09-23 11:01:52,Bonnie Doon Stake,Londonderry Ward,2,0,30,45,2,195,60,0.1538461538461538,15.0,2,Londonderry,37
+2023-09-23 11:35:15,Bonnie Doon Stake,Londonderry Ward,1,3,7,30,1,7,30,1.0,7.0,4,Londonderry,38
+2023-09-23 11:03:27,Gateway Stake,Silver Berry Ward,5,0,29,30,1,19,30,1.5263157894736843,29.0,5,Silver Berry,39
+2023-09-23 11:06:48,Gateway Stake,Crawford Plains Ward,2,0,15,25,1,116,25,0.1293103448275862,15.0,2,Crawford Plains,40
+2023-09-23 11:11:39,Gateway Stake,Crawford Plains Ward,1,0,20,20,1,100,20,0.2,20.0,1,Crawford Plains,41
+2023-09-23 11:03:15,Bonnie Doon Stake,Coronation Park Ward,2,0,20,60,1,96,60,0.2083333333333333,20.0,2,Coronation Park,42
+2023-09-23 10:59:19,Bonnie Doon Stake,Connors Hill Ward,3,5,10,60,1,184,60,0.0543478260869565,10.0,8,Connors Hill,43
+2023-09-23 11:06:35,Bonnie Doon Stake,Connors Hill Ward,2,3,40,180,2,375,60,0.1066666666666666,20.0,5,Connors Hill,44
+2023-09-23 11:04:02,Bonnie Doon Stake,Forest Heights Ward,2,1,40,30,1,200,45,0.2,40.0,3,Forest Heights,45
+2023-09-23 11:07:00,Bonnie Doon Stake,Forest Heights Ward,2,0,30,30,1,115,30,0.2608695652173913,30.0,2,Forest Heights,46
+2023-09-23 11:29:17,Gateway Stake,Lee Ridge Ward,2,0,8,60,1,162,60,0.0493827160493827,8.0,2,Lee Ridge,47
+2023-09-23 11:06:19,Gateway Stake,Lee Ridge Ward,5,3,24,40,1,157,40,0.1528662420382165,24.0,8,Lee Ridge,48
+2023-09-23 11:05:27,Gateway Stake,Silver Berry Ward,2,3,21,30,1,1,32,21.0,21.0,5,Silver Berry,49
+2023-09-23 11:09:16,Gateway Stake,Silver Berry Ward,2,3,21,32,1,202,32,0.1039603960396039,21.0,5,Silver Berry,50
+2023-09-23 11:04:30,Bonnie Doon Stake,Coronation Park Ward,2,0,18,63,1,140,63,0.1285714285714285,18.0,2,Coronation Park,51
+2023-09-23 11:14:24,Gateway Stake,Silver Berry Ward,3,0,24,35,1,194,40,0.1237113402061855,24.0,3,Silver Berry,52
+2023-09-23 11:20:59,Riverbend Stake,Woodbend Ward,3,1,25,45,1,100,45,0.25,25.0,4,Woodbend,53
+2023-09-23 11:08:23,Bonnie Doon Stake,Londonderry Ward,2,0,16,30,1,110,35,0.1454545454545454,16.0,2,Londonderry,54
+2023-09-23 11:14:32,Gateway Stake,Ellerslie Ward,2,2,33,50,1,207,50,0.1594202898550724,33.0,4,Ellerslie,55
+2023-09-23 11:16:08,Gateway Stake,Silver Berry Ward,1,0,11,20,1,29,13,0.3793103448275862,11.0,1,Silver Berry,56
+2023-09-23 11:09:01,Bonnie Doon Stake,Forest Heights Ward,2,2,15,30,1,90,38,0.1666666666666666,15.0,4,Forest Heights,57
+2023-09-23 11:11:29,Bonnie Doon Stake,Coronation Park Ward,2,0,5,32,1,302,39,0.0165562913907284,5.0,2,Coronation Park,58
+2023-09-23 11:17:17,Edmonton North Stake,Namao Ward,2,0,23,100,1,160,100,0.14375,23.0,2,Namao,59
+2023-09-23 11:12:49,Edmonton North Stake,Griesbach Ward,2,2,24,30,1,20,30,1.2,24.0,4,Griesbach,60
+2023-09-23 11:13:44,Gateway Stake,Crawford Plains Ward,2,0,26,45,1,150,40,0.1733333333333333,26.0,2,Crawford Plains,61
+2023-09-23 11:27:49,Gateway Stake,Ellerslie Ward,2,0,26,35,1,220,35,0.1181818181818181,26.0,2,Ellerslie,62
+2023-09-23 11:18:13,Gateway Stake,Lee Ridge Ward,1,4,16,20,2,147,20,0.1088435374149659,8.0,5,Lee Ridge,63
+2023-09-23 11:12:39,Bonnie Doon Stake,Londonderry Ward,3,0,15,45,2,200,51,0.075,7.5,3,Londonderry,64
+2023-09-23 12:01:48,Gateway Stake,Ellerslie Ward,2,4,25,34,1,198,34,0.1262626262626262,25.0,6,Ellerslie,65
+2023-09-23 11:14:30,Bonnie Doon Stake,Forest Heights Ward,3,3,30,60,2,100,73,0.3,15.0,6,Forest Heights,66
+2023-09-23 11:35:54,Bonnie Doon Stake,Connors Hill Ward,3,1,40,60,1,160,44,0.25,40.0,4,Connors Hill,67
+2023-09-23 11:43:38,Riverbend Stake,Rabbit Hill Ward,4,1,15,15,1,80,15,0.1875,15.0,5,Rabbit Hill,68
+2023-09-23 11:20:34,Edmonton North Stake,Griesbach Ward,2,3,35,70,1,370,65,0.0945945945945946,35.0,5,Griesbach,69
+2023-09-23 12:02:43,Edmonton North Stake,Griesbach Ward,2,1,21,45,2,150,45,0.14,10.5,3,Griesbach,70
+2023-09-23 11:31:20,Bonnie Doon Stake,Londonderry Ward,2,0,45,75,1,300,75,0.15,45.0,2,Londonderry,71
+2023-09-23 11:29:13,Bonnie Doon Stake,Londonderry Ward,2,2,43,60,2,300,55,0.1433333333333333,21.5,4,Londonderry,72
+2023-09-23 11:17:27,Gateway Stake,Wainwright Branch,2,0,23,30,1,137,30,0.1678832116788321,23.0,2,Wainwright,73
+2023-09-23 11:22:37,Gateway Stake,Silver Berry Ward,2,0,20,30,1,198,30,0.101010101010101,20.0,2,Silver Berry,74
+2023-09-23 11:28:25,Gateway Stake,Ellerslie Ward,2,0,11,15,1,165,15,0.0666666666666666,11.0,2,Ellerslie,75
+2023-09-23 11:22:37,Bonnie Doon Stake,Connors Hill Ward,2,0,25,40,1,235,60,0.1063829787234042,25.0,2,Connors Hill,76
+2023-09-23 11:33:06,Gateway Stake,Lee Ridge Ward,46,0,15,45,1,15,45,1.0,15.0,46,Lee Ridge,77
+2023-09-23 11:15:10,Gateway Stake,Blackmud Creek Ward,2,0,15,45,1,135,35,0.1111111111111111,15.0,2,Blackmud Creek,78
+2023-09-23 13:16:39,Gateway Stake,Blackmud Creek Ward,33,4,19,20,2,109,20,0.1743119266055046,9.5,37,Blackmud Creek,79
+2023-09-23 11:58:04,Gateway Stake,Crawford Plains Ward,24,0,14,24,2,146,24,0.0958904109589041,7.0,24,Crawford Plains,80
+2023-09-23 11:41:58,Gateway Stake,Crawford Plains Ward,1,0,16,30,1,135,30,0.1185185185185185,16.0,1,Crawford Plains,81
+2023-09-23 11:20:02,Gateway Stake,Crawford Plains Ward,1,1,5,17,1,135,17,0.037037037037037,5.0,2,Crawford Plains,82
+2023-09-23 11:25:22,Riverbend Stake,Greenfield Ward,3,0,54,75,1,212,80,0.2547169811320754,54.0,3,Greenfield,83
+2023-09-23 11:39:36,Riverbend Stake,Terwillegar Park Ward,1,3,50,60,1,38,65,1.3157894736842106,50.0,4,Terwillegar Park,84
+2023-09-23 11:47:40,Riverbend Stake,Rutherford Ward,2,0,44,60,2,446,60,0.0986547085201793,22.0,2,Rutherford,85
+2023-09-23 11:24:46,Edmonton North Stake,Namao Ward,1,4,42,50,1,392,60,0.1071428571428571,42.0,5,Namao,86
+2023-09-23 11:21:27,Edmonton North Stake,Griesbach Ward,2,2,16,60,1,200,50,0.08,16.0,4,Griesbach,87
+2023-09-23 11:41:30,Edmonton North Stake,Griesbach Ward,1,3,7,40,1,90,40,0.0777777777777777,7.0,4,Griesbach,88
+2023-09-23 11:33:12,Bonnie Doon Stake,Londonderry Ward,2,2,19,45,1,198,35,0.0959595959595959,19.0,4,Londonderry,89
+2023-09-23 11:32:25,Gateway Stake,Rio Vista Ward,7,7,46,60,1,219,60,0.2100456621004566,46.0,14,Rio Vista,90
+2023-09-23 11:24:25,Gateway Stake,Silver Berry Ward,2,0,31,58,1,27,57,1.148148148148148,31.0,2,Silver Berry,91
+2023-09-23 11:24:29,Gateway Stake,Silver Berry Ward,4,0,26,50,1,168,50,0.1547619047619047,26.0,4,Silver Berry,92
+2023-09-23 11:25:08,Gateway Stake,Crawford Plains Ward,2,3,21,50,2,317,50,0.0662460567823343,10.5,5,Crawford Plains,93
+2023-09-23 11:21:02,Gateway Stake,Crawford Plains Ward,2,0,15,40,1,115,40,0.1304347826086956,15.0,2,Crawford Plains,94
+2023-09-23 11:25:49,Gateway Stake,Crawford Plains Ward,2,0,15,40,1,115,40,0.1304347826086956,15.0,2,Crawford Plains,95
+2023-09-23 11:27:33,Gateway Stake,Silver Berry Ward,2,0,27,40,1,23,40,1.173913043478261,27.0,2,Silver Berry,96
+2023-09-23 11:35:32,Bonnie Doon Stake,Coronation Park Ward,2,2,72,45,3,63,81,1.1428571428571428,24.0,4,Coronation Park,97
+2023-09-23 11:25:07,Bonnie Doon Stake,Forest Heights Ward,2,3,18,120,1,100,56,0.18,18.0,5,Forest Heights,98
+2023-09-23 11:29:14,Bonnie Doon Stake,Londonderry Ward,2,1,35,60,2,250,57,0.14,17.5,3,Londonderry,99
+2023-09-23 11:33:18,Gateway Stake,Crawford Plains Ward,2,0,35,70,1,134,67,0.2611940298507462,35.0,2,Crawford Plains,100
+2023-09-23 11:25:29,Gateway Stake,Crawford Plains Ward,1,2,11,30,2,261,33,0.0421455938697318,5.5,3,Crawford Plains,101
+2023-09-23 12:16:04,Gateway Stake,Ellerslie Ward,3,1,18,23,1,180,23,0.1,18.0,4,Ellerslie,102
+2023-09-23 11:26:50,Edmonton North Stake,Stony Plain Ward,1,2,31,45,2,453,69,0.0684326710816777,15.5,3,Stony Plain,103
+2023-09-23 11:32:48,Gateway Stake,Crawford Plains Ward,1,1,15,55,2,236,55,0.0635593220338983,7.5,2,Crawford Plains,104
+2023-09-23 11:44:50,Gateway Stake,Crawford Plains Ward,3,2,30,40,2,256,40,0.1171875,15.0,5,Crawford Plains,105
+2023-09-23 11:42:17,Gateway Stake,Ellerslie Ward,1,2,28,35,1,203,35,0.1379310344827586,28.0,3,Ellerslie,106
+2023-09-23 11:27:42,Gateway Stake,Crawford Plains Ward,2,0,12,25,1,110,25,0.109090909090909,12.0,2,Crawford Plains,107
+2023-09-23 11:32:09,Bonnie Doon Stake,Southgate Ward,2,0,20,45,1,95,89,0.2105263157894736,20.0,2,Southgate,108
+2023-09-23 21:44:40,Bonnie Doon Stake,Southgate Ward,4,5,34,55,1,157,55,0.2165605095541401,34.0,9,Southgate,109
+2023-09-23 11:30:53,Riverbend Stake,Terwillegar Park Ward,3,0,60,90,1,250,90,0.24,60.0,3,Terwillegar Park,110
+2023-09-23 12:59:40,Riverbend Stake,Rutherford Ward,2,0,35,90,2,240,75,0.1458333333333333,17.5,2,Rutherford,111
+2023-09-23 11:55:52,Riverbend Stake,Rutherford Ward,2,2,65,90,2,650,70,0.1,32.5,4,Rutherford,112
+2023-09-23 11:32:52,Riverbend Stake,Rutherford Ward,2,0,20,45,1,13,45,1.5384615384615383,20.0,2,Rutherford,113
+2023-09-23 12:07:12,Riverbend Stake,Rutherford Ward,3,0,14,30,1,159,40,0.0880503144654088,14.0,3,Rutherford,114
+2023-09-23 11:30:31,Riverbend Stake,Woodbend Ward,1,3,10,30,1,10,30,1.0,10.0,4,Woodbend,115
+2023-09-23 12:07:40,Edmonton North Stake,Namao Ward,1,4,22,60,1,236,90,0.0932203389830508,22.0,5,Namao,116
+2023-09-23 12:03:51,Edmonton North Stake,Griesbach Ward,2,1,17,60,1,50,75,0.34,17.0,3,Griesbach,117
+2023-09-23 11:38:50,Edmonton North Stake,Griesbach Ward,3,0,17,45,1,13,60,1.3076923076923077,17.0,3,Griesbach,118
+2023-09-23 11:41:30,Edmonton North Stake,Griesbach Ward,1,3,15,60,1,14,60,1.0714285714285714,15.0,4,Griesbach,119
+2023-09-23 11:34:13,Edmonton North Stake,Griesbach Ward,2,4,23,50,1,203,50,0.1133004926108374,23.0,6,Griesbach,120
+2023-09-23 11:45:08,Edmonton North Stake,Griesbach Ward,2,2,15,60,1,106,50,0.1415094339622641,15.0,4,Griesbach,121
+2023-09-23 11:35:32,Edmonton North Stake,Griesbach Ward,1,2,22,60,1,150,45,0.1466666666666666,22.0,3,Griesbach,122
+2023-09-23 11:58:44,Edmonton North Stake,Griesbach Ward,2,0,23,30,1,20,30,1.15,23.0,2,Griesbach,123
+2023-09-23 11:59:08,Edmonton North Stake,Griesbach Ward,2,2,19,30,1,100,30,0.19,19.0,4,Griesbach,124
+2023-09-23 12:07:03,Edmonton North Stake,Griesbach Ward,1,0,5,30,1,40,30,0.125,5.0,1,Griesbach,125
+2023-09-23 12:10:09,Edmonton North Stake,Griesbach Ward,3,0,16,30,1,75,30,0.2133333333333333,16.0,3,Griesbach,126
+2023-09-23 13:23:02,Edmonton North Stake,Griesbach Ward,1,0,17,15,1,140,15,0.1214285714285714,17.0,1,Griesbach,127
+2023-09-23 11:31:53,Bonnie Doon Stake,Londonderry Ward,2,3,35,60,1,180,60,0.1944444444444444,35.0,5,Londonderry,128
+2023-09-23 11:58:31,Gateway Stake,Crawford Plains Ward,2,3,50,90,3,460,90,0.108695652173913,16.666666666666668,5,Crawford Plains,129
+2023-09-23 12:00:59,Gateway Stake,Silver Berry Ward,2,0,38,90,1,243,90,0.1563786008230452,38.0,2,Silver Berry,130
+2023-09-23 11:36:12,Gateway Stake,Crawford Plains Ward,2,3,20,60,2,194,60,0.1030927835051546,10.0,5,Crawford Plains,131
+2023-09-23 11:52:21,Gateway Stake,Ellerslie Ward,2,2,35,60,1,214,60,0.1635514018691588,35.0,4,Ellerslie,132
+2023-09-23 12:13:19,Gateway Stake,Crawford Plains Ward,2,3,24,60,1,128,60,0.1875,24.0,5,Crawford Plains,133
+2023-09-23 11:30:44,Gateway Stake,Ellerslie Ward,2,3,20,50,1,219,50,0.091324200913242,20.0,5,Ellerslie,134
+2023-09-23 11:31:51,Gateway Stake,Silver Berry Ward,2,0,24,40,1,167,50,0.1437125748502994,24.0,2,Silver Berry,135
+2023-09-23 11:38:32,Gateway Stake,Silver Berry Ward,2,0,17,40,1,170,40,0.1,17.0,2,Silver Berry,136
+2023-09-23 12:11:42,Bonnie Doon Stake,Coronation Park Ward,2,0,44,60,2,266,60,0.1654135338345864,22.0,2,Coronation Park,137
+2023-09-23 11:37:24,Bonnie Doon Stake,Forest Heights Ward,1,0,33,45,2,130,45,0.2538461538461538,16.5,1,Forest Heights,138
+2023-09-23 11:41:02,Bonnie Doon Stake,Connors Hill Ward,2,0,10,30,1,136,30,0.0735294117647058,10.0,2,Connors Hill,139
+2023-09-23 11:28:28,Gateway Stake,Wild Rose Ward,1,7,6,60,2,315,60,0.019047619047619,3.0,8,Wild Rose,140
+2023-09-23 12:38:26,Bonnie Doon Stake,Southgate Ward,2,0,22,30,1,145,45,0.1517241379310344,22.0,2,Southgate,141
+2023-09-23 11:27:48,Gateway Stake,Lee Ridge Ward,2,3,37,30,2,144,30,0.2569444444444444,18.5,5,Lee Ridge,142
+2023-09-23 11:50:53,Gateway Stake,Crawford Plains Ward,2,1,23,32,2,195,32,0.1179487179487179,11.5,3,Crawford Plains,143
+2023-09-23 12:31:08,Gateway Stake,Lee Ridge Ward,2,1,21,33,1,139,32,0.1510791366906475,21.0,3,Lee Ridge,144
+2023-09-23 11:34:14,Bonnie Doon Stake,Clareview Ward,2,0,12,50,1,180,63,0.0666666666666666,12.0,2,Clareview,145
+2023-09-23 11:38:55,Gateway Stake,Crawford Plains Ward,2,0,24,15,4,195,54,0.123076923076923,6.0,2,Crawford Plains,146
+2023-09-23 11:35:17,Riverbend Stake,Greenfield Ward,2,0,40,60,1,20,65,2.0,40.0,2,Greenfield,147
+2023-09-23 11:39:12,Edmonton North Stake,Namao Ward,2,0,12,100,1,175,95,0.0685714285714285,12.0,2,Namao,148
+2023-09-23 12:20:27,Gateway Stake,Ellerslie Ward,2,3,65,65,3,65,65,1.0,21.666666666666668,5,Ellerslie,149
+2023-09-23 11:45:27,Gateway Stake,Lee Ridge Ward,1,2,32,35,1,173,35,0.1849710982658959,32.0,3,Lee Ridge,150
+2023-09-23 22:22:03,Gateway Stake,Lee Ridge Ward,2,0,28,70,1,142,60,0.1971830985915492,28.0,2,Lee Ridge,151
+2023-09-23 12:01:07,Gateway Stake,Crawford Plains Ward,2,0,6,19,2,136,18,0.0441176470588235,3.0,2,Crawford Plains,152
+2023-09-23 11:39:29,Riverbend Stake,Rabbit Hill Ward,2,2,10,10,1,70,28,0.1428571428571428,10.0,4,Rabbit Hill,153
+2023-09-23 11:57:41,Gateway Stake,Ellerslie Ward,2,2,34,28,1,203,28,0.167487684729064,34.0,4,Ellerslie,154
+2023-09-23 12:00:28,Gateway Stake,Ellerslie Ward,2,4,14,30,1,190,31,0.0736842105263157,14.0,6,Ellerslie,155
+2023-09-23 11:50:20,Riverbend Stake,Terwillegar Park Ward,1,1,24,90,1,170,90,0.1411764705882353,24.0,2,Terwillegar Park,156
+2023-09-23 11:41:11,Riverbend Stake,Greenfield Ward,4,0,23,45,1,192,60,0.1197916666666666,23.0,4,Greenfield,157
+2023-09-23 11:59:44,Riverbend Stake,Greenfield Ward,2,3,27,60,1,21,60,1.2857142857142858,27.0,5,Greenfield,158
+2023-09-23 11:38:37,Riverbend Stake,Rutherford Ward,2,1,12,15,1,12,40,1.0,12.0,3,Rutherford,159
+2023-09-23 19:57:32,Riverbend Stake,Terwillegar Park Ward,2,4,29,40,3,174,40,0.1666666666666666,9.666666666666666,6,Terwillegar Park,160
+2023-09-23 11:45:51,Edmonton North Stake,Griesbach Ward,2,0,18,55,1,90,55,0.2,18.0,2,Griesbach,161
+2023-09-23 11:49:00,Bonnie Doon Stake,Clareview Ward,2,2,40,70,2,200,70,0.2,20.0,4,Clareview,162
+2023-09-23 11:56:49,Bonnie Doon Stake,Clareview Ward,2,0,6,35,1,110,65,0.0545454545454545,6.0,2,Clareview,163
+2023-09-23 11:42:21,Bonnie Doon Stake,Londonderry Ward,1,2,12,20,1,110,25,0.109090909090909,12.0,3,Londonderry,164
+2023-09-23 11:44:51,Gateway Stake,Silver Berry Ward,3,1,40,100,2,419,100,0.0954653937947494,20.0,4,Silver Berry,165
+2023-09-23 11:45:19,Gateway Stake,Silver Berry Ward,2,1,11,60,2,11,60,1.0,5.5,3,Silver Berry,166
+2023-09-23 11:49:31,Gateway Stake,Silver Berry Ward,2,0,30,55,1,174,55,0.1724137931034483,30.0,2,Silver Berry,167
+2023-09-23 11:51:01,Gateway Stake,Ellerslie Ward,1,2,20,50,2,260,50,0.0769230769230769,10.0,3,Ellerslie,168
+2023-09-23 11:43:36,Gateway Stake,Crawford Plains Ward,2,2,9,20,1,138,20,0.0652173913043478,9.0,4,Crawford Plains,169
+2023-09-23 11:42:33,Bonnie Doon Stake,Connors Hill Ward,2,0,25,60,1,249,60,0.1004016064257028,25.0,2,Connors Hill,170
+2023-09-23 11:45:26,Bonnie Doon Stake,Forest Heights Ward,2,0,16,40,1,125,40,0.128,16.0,2,Forest Heights,171
+2023-09-23 11:42:43,Gateway Stake,Lee Ridge Ward,19,2,15,55,1,158,70,0.0949367088607595,15.0,21,Lee Ridge,172
+2023-09-23 11:44:15,Gateway Stake,Blackmud Creek Ward,3,3,55,47,1,165,47,0.3333333333333333,55.0,6,Blackmud Creek,173
+2023-09-23 13:48:52,Gateway Stake,Blackmud Creek Ward,1,4,13,35,1,177,40,0.0734463276836158,13.0,5,Blackmud Creek,174
+2023-09-23 11:43:10,Gateway Stake,Lee Ridge Ward,7,0,17,40,1,170,42,0.1,17.0,7,Lee Ridge,175
+2023-09-23 11:46:39,Bonnie Doon Stake,Forest Heights Ward,2,4,32,45,1,200,73,0.16,32.0,6,Forest Heights,176
+2023-09-23 12:01:01,YSA Stake,Windsor Park YSA Ward,1,2,50,60,2,110,58,0.4545454545454545,25.0,3,Windsor Park YSA,177
+2023-09-23 11:45:10,Bonnie Doon Stake,Coronation Park Ward,2,2,35,75,2,144,74,0.2430555555555555,17.5,4,Coronation Park,178
+2023-09-23 11:47:14,Riverbend Stake,Terwillegar Park Ward,2,0,44,70,2,285,75,0.1543859649122807,22.0,2,Terwillegar Park,179
+2023-09-23 12:00:11,Riverbend Stake,Woodbend Ward,1,5,70,60,1,350,60,0.2,70.0,6,Woodbend,180
+2023-09-23 12:08:09,Riverbend Stake,Rutherford Ward,2,2,35,30,1,207,30,0.1690821256038647,35.0,4,Rutherford,181
+2023-09-23 11:57:50,Riverbend Stake,Woodbend Ward,1,1,15,15,1,8,15,1.875,15.0,2,Woodbend,182
+2023-09-23 11:48:55,Edmonton North Stake,Griesbach Ward,2,0,30,105,3,356,105,0.0842696629213483,10.0,2,Griesbach,183
+2023-09-23 11:52:34,Edmonton North Stake,Griesbach Ward,3,2,43,60,2,40,60,1.075,21.5,5,Griesbach,184
+2023-09-23 11:47:25,Gateway Stake,Crawford Plains Ward,2,3,30,60,2,23,75,1.3043478260869563,15.0,5,Crawford Plains,185
+2023-09-23 11:47:26,Gateway Stake,Ellerslie Ward,3,2,30,40,1,210,45,0.1428571428571428,30.0,5,Ellerslie,186
+2023-09-23 12:36:51,Gateway Stake,Silver Berry Ward,2,2,29,45,1,342,45,0.0847953216374269,29.0,4,Silver Berry,187
+2023-09-23 15:40:46,Gateway Stake,Silver Berry Ward,38,2,29,45,2,339,45,0.0855457227138643,14.5,40,Silver Berry,188
+2023-09-23 12:00:01,Gateway Stake,Lee Ridge Ward,2,3,30,35,1,30,35,1.0,30.0,5,Lee Ridge,189
+2023-09-23 11:50:57,Gateway Stake,Crawford Plains Ward,2,3,13,15,1,115,30,0.1130434782608695,13.0,5,Crawford Plains,190
+2023-09-23 11:48:45,Bonnie Doon Stake,Coronation Park Ward,3,1,117,45,4,403,90,0.2903225806451613,29.25,4,Coronation Park,191
+2023-09-23 11:46:45,Bonnie Doon Stake,Coronation Park Ward,3,0,18,45,1,143,45,0.1258741258741259,18.0,3,Coronation Park,192
+2023-09-23 11:50:39,Bonnie Doon Stake,Forest Heights Ward,2,3,20,60,1,120,60,0.1666666666666666,20.0,5,Forest Heights,193
+2023-09-23 11:57:29,Bonnie Doon Stake,Strathcona Married Student Ward,2,1,10,30,1,90,45,0.1111111111111111,10.0,3,Strathcona Married Student,194
+2023-09-23 12:26:31,Gateway Stake,Blackmud Creek Ward,2,4,18,45,1,154,45,0.1168831168831168,18.0,6,Blackmud Creek,195
+2023-09-23 12:45:57,Gateway Stake,Blackmud Creek Ward,3,0,30,45,1,171,45,0.175438596491228,30.0,3,Blackmud Creek,196
+2023-09-23 11:51:03,Bonnie Doon Stake,Forest Heights Ward,1,1,18,45,1,125,36,0.144,18.0,2,Forest Heights,197
+2023-09-23 11:49:55,Gateway Stake,Lee Ridge Ward,4,3,26,30,1,148,36,0.1756756756756756,26.0,7,Lee Ridge,198
+2023-09-23 12:02:58,Gateway Stake,Ellerslie Ward,2,1,40,60,1,228,53,0.175438596491228,40.0,3,Ellerslie,199
+2023-09-23 11:50:31,Riverbend Stake,Terwillegar Park Ward,2,0,70,90,1,312,108,0.2243589743589743,70.0,2,Terwillegar Park,200
+2023-09-23 11:51:04,Gateway Stake,Lee Ridge Ward,2,1,36,40,1,145,44,0.2482758620689655,36.0,3,Lee Ridge,201
+2023-09-23 12:03:57,Riverbend Stake,Greenfield Ward,2,0,44,80,1,200,80,0.22,44.0,2,Greenfield,202
+2023-09-23 12:49:55,Riverbend Stake,Woodbend Ward,2,2,65,80,2,200,80,0.325,32.5,4,Woodbend,203
+2023-09-23 12:02:50,Riverbend Stake,Greenfield Ward,2,1,46,60,1,220,60,0.209090909090909,46.0,3,Greenfield,204
+2023-09-23 11:52:36,Riverbend Stake,Terwillegar Park Ward,3,1,19,40,1,150,50,0.1266666666666666,19.0,4,Terwillegar Park,205
+2023-09-24 23:04:02,Edmonton North Stake,Namao Ward,2,8,32,105,2,525,100,0.0609523809523809,16.0,10,Namao,206
+2023-09-23 12:17:00,Bonnie Doon Stake,Clareview Ward,3,0,150,120,4,450,65,0.3333333333333333,37.5,3,Clareview,207
+2023-09-23 11:50:57,Bonnie Doon Stake,Clareview Ward,2,0,15,30,1,121,38,0.1239669421487603,15.0,2,Clareview,208
+2023-09-23 12:17:56,Gateway Stake,Silver Berry Ward,2,0,28,90,2,460,90,0.0608695652173913,14.0,2,Silver Berry,209
+2023-09-23 11:56:12,Gateway Stake,Silver Berry Ward,2,3,31,50,1,180,50,0.1722222222222222,31.0,5,Silver Berry,210
+2023-09-23 11:52:29,Gateway Stake,Crawford Plains Ward,2,0,6,15,1,168,15,0.0357142857142857,6.0,2,Crawford Plains,211
+2023-09-23 11:54:49,Bonnie Doon Stake,Connors Hill Ward,1,1,40,150,2,180,95,0.2222222222222222,20.0,2,Connors Hill,212
+2023-09-23 12:07:13,Bonnie Doon Stake,Strathcona Married Student Ward,2,0,14,45,1,110,35,0.1272727272727272,14.0,2,Strathcona Married Student,213
+2023-09-23 12:16:43,Gateway Stake,Blackmud Creek Ward,3,3,37,60,1,206,50,0.1796116504854369,37.0,6,Blackmud Creek,214
+2023-09-23 12:30:01,Gateway Stake,Lee Ridge Ward,1,1,23,30,1,195,30,0.1179487179487179,23.0,2,Lee Ridge,215
+2023-09-23 13:18:52,Gateway Stake,Blackmud Creek Ward,1,4,12,20,2,178,20,0.0674157303370786,6.0,5,Blackmud Creek,216
+2023-09-23 12:16:40,Gateway Stake,Crawford Plains Ward,2,0,27,40,2,267,40,0.1011235955056179,13.5,2,Crawford Plains,217
+2023-09-23 11:50:42,Gateway Stake,Ellerslie Ward,1,0,26,40,3,191,36,0.1361256544502617,8.666666666666666,1,Ellerslie,218
+2023-09-23 11:53:08,Bonnie Doon Stake,Forest Heights Ward,4,0,42,60,2,194,96,0.2164948453608247,21.0,4,Forest Heights,219
+2023-09-23 11:52:53,Edmonton North Stake,Griesbach Ward,2,1,10,52,1,120,52,0.0833333333333333,10.0,3,Griesbach,220
+2023-09-23 12:03:20,Gateway Stake,Lee Ridge Ward,2,4,24,40,1,169,40,0.1420118343195266,24.0,6,Lee Ridge,221
+2023-09-23 11:54:54,Riverbend Stake,Greenfield Ward,2,0,50,270,1,210,83,0.238095238095238,50.0,2,Greenfield,222
+2023-09-23 11:54:28,Bonnie Doon Stake,Coronation Park Ward,2,1,55,110,2,195,98,0.282051282051282,27.5,3,Coronation Park,223
+2023-09-23 11:55:46,Gateway Stake,Blackmud Creek Ward,6,5,48,49,1,162,42,0.2962962962962963,48.0,11,Blackmud Creek,224
+2023-09-23 12:02:01,Bonnie Doon Stake,Clareview Ward,1,0,38,90,2,300,114,0.1266666666666666,19.0,1,Clareview,225
+2023-09-23 11:55:50,Bonnie Doon Stake,Forest Heights Ward,2,2,17,51,1,75,54,0.2266666666666666,17.0,4,Forest Heights,226
+2023-09-23 12:07:21,Riverbend Stake,Rutherford Ward,2,0,12,35,1,159,25,0.0754716981132075,12.0,2,Rutherford,227
+2023-09-23 12:15:03,Gateway Stake,Ellerslie Ward,2,2,67,100,3,501,100,0.1337325349301397,22.33333333333333,4,Ellerslie,228
+2023-09-23 12:04:20,Gateway Stake,Crawford Plains Ward,2,0,25,30,1,150,10,0.1666666666666666,25.0,2,Crawford Plains,229
+2023-09-23 11:57:15,Bonnie Doon Stake,Coronation Park Ward,4,0,37,45,2,195,100,0.1897435897435897,18.5,4,Coronation Park,230
+2023-09-23 12:13:27,Gateway Stake,Lee Ridge Ward,2,0,44,75,1,125,85,0.352,44.0,2,Lee Ridge,231
+2023-09-23 11:56:02,Gateway Stake,Blackmud Creek Ward,2,2,15,60,1,100,75,0.15,15.0,4,Blackmud Creek,232
+2023-09-23 19:05:14,Gateway Stake,Blackmud Creek Ward,2,2,25,10,1,190,50,0.131578947368421,25.0,4,Blackmud Creek,233
+2023-09-23 11:58:26,Riverbend Stake,Rabbit Hill Ward,3,0,52,80,2,313,67,0.1661341853035143,26.0,3,Rabbit Hill,234
+2023-09-23 12:17:02,Gateway Stake,Ellerslie Ward,3,1,28,27,1,184,27,0.1521739130434782,28.0,4,Ellerslie,235
+2023-09-23 11:58:43,Bonnie Doon Stake,Coronation Park Ward,2,2,37,57,1,195,57,0.1897435897435897,37.0,4,Coronation Park,236
+2023-09-23 11:58:54,Bonnie Doon Stake,Forest Heights Ward,2,3,28,57,2,200,57,0.14,14.0,5,Forest Heights,237
+2023-09-23 11:59:28,Riverbend Stake,Woodbend Ward,2,0,15,40,1,80,88,0.1875,15.0,2,Woodbend,238
+2023-09-23 12:09:18,Gateway Stake,Lee Ridge Ward,2,3,23,58,1,23,58,1.0,23.0,5,Lee Ridge,239
+2023-09-23 12:09:35,Riverbend Stake,Terwillegar Park Ward,4,0,25,60,1,100,60,0.25,25.0,4,Terwillegar Park,240
+2023-09-23 12:25:04,Riverbend Stake,Rabbit Hill Ward,2,8,200,240,8,1420,120,0.1408450704225352,25.0,10,Rabbit Hill,241
+2023-09-23 12:05:24,Riverbend Stake,Rabbit Hill Ward,2,1,80,70,2,400,100,0.2,40.0,3,Rabbit Hill,242
+2023-09-23 12:36:43,Riverbend Stake,Drayton Valley Ward,4,0,80,120,4,400,90,0.2,20.0,4,Drayton Valley,243
+2023-09-23 12:01:35,Riverbend Stake,Woodbend Ward,2,1,35,30,1,179,65,0.1955307262569832,35.0,3,Woodbend,244
+2023-09-23 12:50:41,Riverbend Stake,Rutherford Ward,2,2,67,60,2,377,60,0.1777188328912466,33.5,4,Rutherford,245
+2023-09-23 12:02:48,Riverbend Stake,Rabbit Hill Ward,1,1,30,45,1,158,40,0.189873417721519,30.0,2,Rabbit Hill,246
+2023-09-23 12:01:42,Riverbend Stake,Greenfield Ward,2,0,8,20,1,150,30,0.0533333333333333,8.0,2,Greenfield,247
+2023-09-23 12:10:15,Riverbend Stake,Greenfield Ward,2,2,30,25,1,196,30,0.1530612244897959,30.0,4,Greenfield,248
+2023-09-23 12:04:53,Edmonton North Stake,Griesbach Ward,1,3,30,75,1,100,75,0.3,30.0,4,Griesbach,249
+2023-09-23 12:17:25,Edmonton North Stake,Griesbach Ward,1,0,7,45,1,40,45,0.175,7.0,1,Griesbach,250
+2023-09-23 12:05:56,Gateway Stake,Crawford Plains Ward,1,2,32,60,2,215,60,0.1488372093023255,16.0,3,Crawford Plains,251
+2023-09-23 12:11:24,Gateway Stake,Crawford Plains Ward,2,3,40,90,3,380,90,0.1052631578947368,13.333333333333334,5,Crawford Plains,252
+2023-09-23 12:14:19,Gateway Stake,Lee Ridge Ward,2,0,20,55,1,25,55,0.8,20.0,2,Lee Ridge,253
+2023-09-23 12:02:57,Gateway Stake,Silver Berry Ward,2,1,25,45,1,230,45,0.108695652173913,25.0,3,Silver Berry,254
+2023-09-23 12:09:23,Gateway Stake,Crawford Plains Ward,3,1,28,30,1,123,30,0.2276422764227642,28.0,4,Crawford Plains,255
+2023-09-23 12:01:01,Bonnie Doon Stake,Coronation Park Ward,1,1,15,60,1,100,60,0.15,15.0,2,Coronation Park,256
+2023-09-23 12:09:19,Bonnie Doon Stake,Forest Heights Ward,1,3,11,30,2,170,30,0.0647058823529411,5.5,4,Forest Heights,257
+2023-09-23 14:27:36,Gateway Stake,Blackmud Creek Ward,2,2,32,60,1,174,75,0.1839080459770115,32.0,4,Blackmud Creek,258
+2023-09-23 16:48:03,Gateway Stake,Blackmud Creek Ward,2,0,20,60,1,123,60,0.1626016260162601,20.0,2,Blackmud Creek,259
+2023-09-23 12:12:28,Gateway Stake,Lee Ridge Ward,2,1,20,50,1,158,45,0.1265822784810126,20.0,3,Lee Ridge,260
+2023-09-23 13:47:49,Gateway Stake,Lee Ridge Ward,2,1,14,60,1,147,90,0.0952380952380952,14.0,3,Lee Ridge,261
+2023-09-23 11:52:14,Bonnie Doon Stake,Southgate Ward,5,1,6,15,1,40,60,0.15,6.0,6,Southgate,262
+2023-09-23 11:59:57,Bonnie Doon Stake,Southgate Ward,2,2,9,60,1,150,60,0.06,9.0,4,Southgate,263
+2023-09-23 12:00:20,Gateway Stake,Blackmud Creek Ward,2,20,20,60,1,147,60,0.1360544217687075,20.0,22,Blackmud Creek,264
+2023-09-23 12:09:14,Bonnie Doon Stake,Southgate Ward,4,0,8,45,1,80,60,0.1,8.0,4,Southgate,265
+2023-09-23 12:16:57,Bonnie Doon Stake,Southgate Ward,2,0,12,60,1,195,60,0.0615384615384615,12.0,2,Southgate,266
+2023-09-23 12:03:03,Bonnie Doon Stake,Southgate Ward,1,2,31,60,1,143,55,0.2167832167832167,31.0,3,Southgate,267
+2023-09-23 14:21:32,Bonnie Doon Stake,Southgate Ward,1,0,17,30,1,13,35,1.3076923076923077,17.0,1,Southgate,268
+2023-09-23 14:42:08,Gateway Stake,Blackmud Creek Ward,2,0,16,20,1,67,30,0.2388059701492537,16.0,2,Blackmud Creek,269
+2023-09-23 12:10:22,Gateway Stake,Crawford Plains Ward,1,3,32,52,2,200,52,0.16,16.0,4,Crawford Plains,270
+2023-09-23 12:07:12,Bonnie Doon Stake,Clareview Ward,2,4,22,20,1,195,33,0.1128205128205128,22.0,6,Clareview,271
+2023-09-23 12:04:02,Bonnie Doon Stake,Connors Hill Ward,1,0,19,60,2,280,63,0.0678571428571428,9.5,1,Connors Hill,272
+2023-09-23 12:05:51,Gateway Stake,Silver Berry Ward,2,0,24,60,1,220,60,0.109090909090909,24.0,2,Silver Berry,273
+2023-09-23 12:05:20,Riverbend Stake,Greenfield Ward,2,4,45,120,1,45,109,1.0,45.0,6,Greenfield,274
+2023-09-23 12:21:31,Gateway Stake,Silver Berry Ward,2,2,36,35,1,216,35,0.1666666666666666,36.0,4,Silver Berry,275
+2023-09-23 12:03:31,Gateway Stake,Crawford Plains Ward,2,0,8,30,1,144,30,0.0555555555555555,8.0,2,Crawford Plains,276
+2023-09-23 12:13:23,Bonnie Doon Stake,Southgate Ward,2,1,25,45,2,256,50,0.09765625,12.5,3,Southgate,277
+2023-09-23 12:04:58,Gateway Stake,Lee Ridge Ward,4,0,24,40,1,155,45,0.1548387096774193,24.0,4,Lee Ridge,278
+2023-09-23 12:12:28,Gateway Stake,Crawford Plains Ward,1,1,25,35,1,26,35,0.9615384615384616,25.0,2,Crawford Plains,279
+2023-09-23 12:20:30,Gateway Stake,Ellerslie Ward,26,3,25,35,1,19,33,1.3157894736842106,25.0,29,Ellerslie,280
+2023-09-23 12:07:20,Riverbend Stake,Terwillegar Park Ward,3,1,34,60,1,150,96,0.2266666666666666,34.0,4,Terwillegar Park,281
+2023-09-23 12:30:34,Gateway Stake,Ellerslie Ward,2,3,30,62,1,200,63,0.15,30.0,5,Ellerslie,282
+2023-09-23 12:10:27,Gateway Stake,Crawford Plains Ward,1,1,120,70,6,900,77,0.1333333333333333,20.0,2,Crawford Plains,283
+2023-09-23 12:15:42,Gateway Stake,Crawford Plains Ward,2,1,16,30,1,114,21,0.1403508771929824,16.0,3,Crawford Plains,284
+2023-09-23 12:12:12,Bonnie Doon Stake,Clareview Ward,2,0,16,60,1,100,65,0.16,16.0,2,Clareview,285
+2023-09-23 12:22:14,Bonnie Doon Stake,Londonderry Ward,2,0,35,75,3,75,55,0.4666666666666667,11.666666666666666,2,Londonderry,286
+2023-09-23 12:21:42,Gateway Stake,Silver Berry Ward,2,2,60,80,2,366,100,0.1639344262295081,30.0,4,Silver Berry,287
+2023-09-23 12:21:38,Edmonton North Stake,Griesbach Ward,1,1,14,60,1,135,70,0.1037037037037037,14.0,2,Griesbach,288
+2023-09-23 12:35:22,Gateway Stake,Ellerslie Ward,1,1,18,26,1,201,25,0.0895522388059701,18.0,2,Ellerslie,289
+2023-09-23 12:12:51,Gateway Stake,Lee Ridge Ward,2,1,44,60,1,168,71,0.2619047619047619,44.0,3,Lee Ridge,290
+2023-09-23 12:14:16,Gateway Stake,Lee Ridge Ward,2,3,22,35,2,207,32,0.1062801932367149,11.0,5,Lee Ridge,291
+2023-09-23 12:15:41,Gateway Stake,Crawford Plains Ward,2,0,36,60,2,140,73,0.2571428571428571,18.0,2,Crawford Plains,292
+2023-09-23 12:55:47,Riverbend Stake,Woodbend Ward,2,0,20,70,1,160,75,0.125,20.0,2,Woodbend,293
+2023-09-23 12:32:27,Riverbend Stake,Rabbit Hill Ward,1,1,43,60,1,208,65,0.2067307692307692,43.0,2,Rabbit Hill,294
+2023-09-23 12:28:07,Riverbend Stake,Woodbend Ward,2,0,20,60,1,137,60,0.145985401459854,20.0,2,Woodbend,295
+2023-09-23 12:28:19,Bonnie Doon Stake,Londonderry Ward,1,1,12,60,1,195,45,0.0615384615384615,12.0,2,Londonderry,296
+2023-09-23 13:01:25,Gateway Stake,Ellerslie Ward,2,5,39,45,2,466,45,0.0836909871244635,19.5,7,Ellerslie,297
+2023-09-23 12:22:56,Gateway Stake,Silver Berry Ward,1,2,24,30,1,244,28,0.0983606557377049,24.0,3,Silver Berry,298
+2023-09-23 12:51:39,Gateway Stake,Blackmud Creek Ward,4,9,32,75,1,178,75,0.1797752808988764,32.0,13,Blackmud Creek,299
+2023-09-23 12:44:55,Riverbend Stake,Rutherford Ward,1,3,12,30,1,142,30,0.0845070422535211,12.0,4,Rutherford,300
+2023-09-23 12:19:42,Gateway Stake,Silver Berry Ward,2,4,59,105,2,492,105,0.1199186991869918,29.5,6,Silver Berry,301
+2023-09-23 12:18:50,Gateway Stake,Silver Berry Ward,2,0,17,60,1,153,55,0.1111111111111111,17.0,2,Silver Berry,302
+2023-09-23 12:25:09,Gateway Stake,Lee Ridge Ward,1,4,30,45,1,160,45,0.1875,30.0,5,Lee Ridge,303
+2023-09-23 12:41:21,Gateway Stake,Lee Ridge Ward,2,3,32,30,1,157,45,0.2038216560509554,32.0,5,Lee Ridge,304
+2023-09-23 12:19:06,Bonnie Doon Stake,Clareview Ward,1,2,20,60,1,110,107,0.1818181818181818,20.0,3,Clareview,305
+2023-09-23 12:20:15,Riverbend Stake,Rabbit Hill Ward,2,1,100,90,3,482,137,0.2074688796680498,33.333333333333336,3,Rabbit Hill,306
+2023-09-23 12:19:45,Gateway Stake,Silver Berry Ward,2,0,17,60,1,235,78,0.0723404255319148,17.0,2,Silver Berry,307
+2023-09-23 12:21:31,Bonnie Doon Stake,Clareview Ward,1,2,20,20,1,195,79,0.1025641025641025,20.0,3,Clareview,308
+2023-09-23 12:39:21,Riverbend Stake,Terwillegar Park Ward,2,1,80,60,2,300,80,0.2666666666666666,40.0,3,Terwillegar Park,309
+2023-09-23 12:53:43,Riverbend Stake,Rutherford Ward,2,2,40,75,1,215,65,0.1860465116279069,40.0,4,Rutherford,310
+2023-09-23 12:26:53,Edmonton North Stake,Griesbach Ward,2,4,80,110,5,500,105,0.16,16.0,6,Griesbach,311
+2023-09-23 12:32:57,Gateway Stake,Ellerslie Ward,2,0,40,65,1,239,65,0.1673640167364016,40.0,2,Ellerslie,312
+2023-09-23 12:32:37,Gateway Stake,Silver Berry Ward,1,0,29,69,1,266,60,0.1090225563909774,29.0,1,Silver Berry,313
+2023-09-23 12:25:06,Gateway Stake,Beaumont Ward,2,2,20,45,2,175,110,0.1142857142857142,10.0,4,Beaumont,314
+2023-09-23 12:28:08,Bonnie Doon Stake,Southgate Ward,2,4,45,90,2,195,65,0.2307692307692307,22.5,6,Southgate,315
+2023-09-23 12:56:39,Gateway Stake,Lee Ridge Ward,0,2,20,120,2,163,65,0.1226993865030674,10.0,2,Lee Ridge,316
+2023-09-23 12:21:26,Riverbend Stake,Rutherford Ward,2,0,19,65,1,174,65,0.1091954022988505,19.0,2,Rutherford,317
+2023-09-23 12:25:02,Edmonton North Stake,Namao Ward,1,3,30,35,1,272,35,0.1102941176470588,30.0,4,Namao,318
+2023-09-23 12:28:46,Gateway Stake,Crawford Plains Ward,1,2,17,40,1,113,50,0.1504424778761062,17.0,3,Crawford Plains,319
+2023-09-23 12:56:59,Gateway Stake,Lee Ridge Ward,0,2,20,60,1,168,65,0.119047619047619,20.0,2,Lee Ridge,320
+2023-09-23 12:42:36,Gateway Stake,Rio Vista Ward,2,1,45,60,2,36,54,1.25,22.5,3,Rio Vista,321
+2023-09-23 12:35:45,Bonnie Doon Stake,Strathcona Married Student Ward,1,0,13,60,1,195,61,0.0666666666666666,13.0,1,Strathcona Married Student,322
+2023-09-23 12:38:58,Bonnie Doon Stake,Strathcona Married Student Ward,2,0,11,38,1,158,43,0.0696202531645569,11.0,2,Strathcona Married Student,323
+2023-09-23 12:39:28,Bonnie Doon Stake,Clareview Ward,2,1,42,110,2,191,112,0.2198952879581152,21.0,3,Clareview,324
+2023-09-23 12:28:02,Gateway Stake,Silver Berry Ward,3,5,66,115,3,654,127,0.1009174311926605,22.0,8,Silver Berry,325
+2023-09-23 12:25:08,Gateway Stake,Crawford Plains Ward,2,3,25,40,1,60,38,0.4166666666666667,25.0,5,Crawford Plains,326
+2023-09-23 12:43:53,Riverbend Stake,Greenfield Ward,2,3,39,120,1,110,109,0.3545454545454545,39.0,5,Greenfield,327
+2023-09-23 12:42:48,Riverbend Stake,Rabbit Hill Ward,3,1,110,120,3,430,100,0.2558139534883721,36.66666666666666,4,Rabbit Hill,328
+2023-09-23 12:37:46,Gateway Stake,Silver Berry Ward,2,2,17,37,1,186,37,0.0913978494623656,17.0,4,Silver Berry,329
+2023-09-23 15:42:44,Gateway Stake,Silver Berry Ward,2,2,17,37,2,197,37,0.0862944162436548,8.5,4,Silver Berry,330
+2023-09-23 13:03:28,Gateway Stake,Blackmud Creek Ward,2,4,41,25,1,260,70,0.1576923076923077,41.0,6,Blackmud Creek,331
+2023-09-23 12:27:15,Gateway Stake,Lee Ridge Ward,1,1,20,60,1,161,55,0.124223602484472,20.0,2,Lee Ridge,332
+2023-09-23 19:01:36,Gateway Stake,Blackmud Creek Ward,2,3,49,60,2,241,89,0.2033195020746888,24.5,5,Blackmud Creek,333
+2023-09-23 13:05:00,Riverbend Stake,Rabbit Hill Ward,1,0,25,80,2,273,105,0.0915750915750915,12.5,1,Rabbit Hill,334
+2023-09-23 12:51:38,Riverbend Stake,Rutherford Ward,3,0,34,90,2,246,90,0.1382113821138211,17.0,3,Rutherford,335
+2023-09-23 12:36:33,Edmonton North Stake,Griesbach Ward,2,0,93,120,3,552,120,0.1684782608695652,31.0,2,Griesbach,336
+2023-09-23 12:39:07,Gateway Stake,Silver Berry Ward,6,0,20,30,1,300,30,0.0666666666666666,20.0,6,Silver Berry,337
+2023-09-23 12:33:30,Gateway Stake,Silver Berry Ward,2,2,85,90,3,585,90,0.1452991452991453,28.33333333333333,4,Silver Berry,338
+2023-09-23 12:44:25,Gateway Stake,Lee Ridge Ward,2,2,35,80,2,330,80,0.106060606060606,17.5,4,Lee Ridge,339
+2023-09-23 12:36:39,Gateway Stake,Silver Berry Ward,2,3,22,40,1,118,40,0.1864406779661017,22.0,5,Silver Berry,340
+2023-09-23 12:39:07,Bonnie Doon Stake,Southgate Ward,2,3,60,90,2,257,90,0.2334630350194552,30.0,5,Southgate,341
+2023-09-24 13:37:16,Gateway Stake,Blackmud Creek Ward,2,0,22,60,1,195,90,0.1128205128205128,22.0,2,Blackmud Creek,342
+2023-09-23 19:26:31,Edmonton North Stake,Stony Plain Ward,2,5,20,20,1,115,150,0.1739130434782608,20.0,7,Stony Plain,343
+2023-09-23 12:47:22,Gateway Stake,Ellerslie Ward,1,1,45,90,2,180,90,0.25,22.5,2,Ellerslie,344
+2023-09-23 12:31:45,Gateway Stake,Ellerslie Ward,2,4,50,45,1,236,60,0.211864406779661,50.0,6,Ellerslie,345
+2023-09-23 13:01:40,Gateway Stake,Lee Ridge Ward,1,0,18,120,2,40,120,0.45,9.0,1,Lee Ridge,346
+2023-09-23 12:35:20,Gateway Stake,Lee Ridge Ward,2,1,30,40,2,165,90,0.1818181818181818,15.0,3,Lee Ridge,347
+2023-09-23 12:37:39,Gateway Stake,Lee Ridge Ward,1,0,23,60,1,163,90,0.1411042944785276,23.0,1,Lee Ridge,348
+2023-09-23 19:59:48,Gateway Stake,Blackmud Creek Ward,2,2,25,75,1,202,75,0.1237623762376237,25.0,4,Blackmud Creek,349
+2023-09-23 12:43:38,Bonnie Doon Stake,Southgate Ward,2,0,58,75,3,195,70,0.2974358974358974,19.33333333333333,2,Southgate,350
+2023-09-23 12:37:34,Gateway Stake,Lee Ridge Ward,2,1,35,40,2,172,60,0.2034883720930232,17.5,3,Lee Ridge,351
+2023-09-23 12:29:01,Gateway Stake,Blackmud Creek Ward,2,3,50,45,1,240,45,0.2083333333333333,50.0,5,Blackmud Creek,352
+2023-09-23 19:02:03,Gateway Stake,Blackmud Creek Ward,2,0,21,40,1,109,40,0.1926605504587156,21.0,2,Blackmud Creek,353
+2023-09-23 12:46:26,Gateway Stake,Blackmud Creek Ward,4,5,14,30,1,195,30,0.0717948717948717,14.0,9,Blackmud Creek,354
+2023-09-23 12:48:17,Gateway Stake,Blackmud Creek Ward,3,0,8,30,1,60,30,0.1333333333333333,8.0,3,Blackmud Creek,355
+2023-09-23 12:36:17,Gateway Stake,Lee Ridge Ward,2,2,20,45,1,151,123,0.1324503311258278,20.0,4,Lee Ridge,356
+2023-09-23 12:46:23,Edmonton North Stake,Griesbach Ward,3,0,60,120,2,380,140,0.1578947368421052,30.0,3,Griesbach,357
+2023-09-23 12:48:08,Riverbend Stake,Greenfield Ward,2,0,100,90,2,500,95,0.2,50.0,2,Greenfield,358
+2023-09-23 12:45:19,Gateway Stake,Silver Berry Ward,3,4,33,30,3,206,30,0.1601941747572815,11.0,7,Silver Berry,359
+2023-09-23 12:38:56,Riverbend Stake,Rutherford Ward,2,0,8,15,1,68,38,0.1176470588235294,8.0,2,Rutherford,360
+2023-09-23 12:32:32,Gateway Stake,Silver Berry Ward,2,3,25,40,1,118,48,0.211864406779661,25.0,5,Silver Berry,361
+2023-09-23 12:47:20,Gateway Stake,Lee Ridge Ward,2,0,23,25,1,160,25,0.14375,23.0,2,Lee Ridge,362
+2023-09-23 12:41:23,Riverbend Stake,Woodbend Ward,2,2,54,90,1,350,100,0.1542857142857142,54.0,4,Woodbend,363
+2023-09-23 12:15:21,Bonnie Doon Stake,Southgate Ward,2,5,15,25,1,115,84,0.1304347826086956,15.0,7,Southgate,364
+2023-09-23 12:47:23,Riverbend Stake,Rabbit Hill Ward,2,4,80,105,4,74,105,1.0810810810810811,20.0,6,Rabbit Hill,365
+2023-09-23 13:29:54,Riverbend Stake,Woodbend Ward,2,3,25,45,1,150,75,0.1666666666666666,25.0,5,Woodbend,366
+2023-09-23 13:06:17,Gateway Stake,Ellerslie Ward,1,2,10,30,1,205,30,0.048780487804878,10.0,3,Ellerslie,367
+2023-09-23 12:56:24,Gateway Stake,Crawford Plains Ward,2,2,52,125,3,324,105,0.1604938271604938,17.333333333333332,4,Crawford Plains,368
+2023-09-23 13:08:55,Gateway Stake,Ellerslie Ward,2,5,25,45,1,200,45,0.125,25.0,7,Ellerslie,369
+2023-09-23 12:51:45,Gateway Stake,Ellerslie Ward,1,1,25,25,1,226,25,0.1106194690265486,25.0,2,Ellerslie,370
+2023-09-23 12:49:49,Gateway Stake,Lee Ridge Ward,3,4,14,60,2,147,85,0.0952380952380952,7.0,7,Lee Ridge,371
+2023-09-23 12:48:07,Bonnie Doon Stake,Southgate Ward,2,3,20,45,1,147,45,0.1360544217687075,20.0,5,Southgate,372
+2023-09-24 09:22:35,Bonnie Doon Stake,Southgate Ward,4,0,14,45,1,13,45,1.0769230769230769,14.0,4,Southgate,373
+2023-09-23 12:50:16,Gateway Stake,Lee Ridge Ward,3,4,25,35,2,166,86,0.1506024096385542,12.5,7,Lee Ridge,374
+2023-09-23 12:49:19,Riverbend Stake,Rutherford Ward,5,0,28,60,2,260,92,0.1076923076923077,14.0,5,Rutherford,375
+2023-09-23 12:52:20,Riverbend Stake,Terwillegar Park Ward,1,1,125,150,3,650,170,0.1923076923076923,41.66666666666666,2,Terwillegar Park,376
+2023-09-23 12:55:32,Riverbend Stake,Terwillegar Park Ward,3,3,40,60,2,280,60,0.1428571428571428,20.0,6,Terwillegar Park,377
+2023-09-23 13:12:47,Edmonton North Stake,Griesbach Ward,2,0,70,150,3,400,120,0.175,23.33333333333333,2,Griesbach,378
+2023-09-23 12:57:21,Gateway Stake,Crawford Plains Ward,2,2,37,140,3,321,140,0.1152647975077881,12.333333333333334,4,Crawford Plains,379
+2023-09-23 12:56:14,Riverbend Stake,Rabbit Hill Ward,4,0,65,60,1,300,115,0.2166666666666666,65.0,4,Rabbit Hill,380
+2023-09-23 13:00:26,Edmonton North Stake,Namao Ward,1,3,22,40,1,172,40,0.127906976744186,22.0,4,Namao,381
+2023-09-23 13:16:29,Edmonton North Stake,Griesbach Ward,2,0,69,150,3,400,145,0.1725,23.0,2,Griesbach,382
+2023-09-23 12:59:34,Riverbend Stake,Rabbit Hill Ward,4,0,56,120,2,200,103,0.28,28.0,4,Rabbit Hill,383
+2023-09-23 19:59:04,Riverbend Stake,Terwillegar Park Ward,2,4,39,80,3,262,80,0.148854961832061,13.0,6,Terwillegar Park,384
+2023-09-23 22:56:45,Gateway Stake,Crawford Plains Ward,2,0,150,150,6,195,150,0.7692307692307693,25.0,2,Crawford Plains,385
+2023-09-23 13:25:18,Gateway Stake,Silver Berry Ward,1,3,77,120,2,472,120,0.163135593220339,38.5,4,Silver Berry,386
+2023-09-23 13:34:54,Gateway Stake,Crawford Plains Ward,1,1,12,60,1,92,60,0.1304347826086956,12.0,2,Crawford Plains,387
+2023-09-23 19:19:20,Gateway Stake,Blackmud Creek Ward,3,4,40,35,1,155,180,0.2580645161290322,40.0,7,Blackmud Creek,388
+2023-09-24 17:58:08,Bonnie Doon Stake,Southgate Ward,1,4,30,30,1,130,30,0.2307692307692307,30.0,5,Southgate,389
+2023-09-23 13:06:33,Gateway Stake,Blackmud Creek Ward,2,3,42,30,1,95,53,0.4421052631578947,42.0,5,Blackmud Creek,390
+2023-09-23 13:05:08,Bonnie Doon Stake,Clareview Ward,2,0,1,30,1,100,34,0.01,1.0,2,Clareview,391
+2023-09-23 13:20:10,Edmonton North Stake,Namao Ward,2,0,45,170,1,316,165,0.1424050632911392,45.0,2,Namao,392
+2023-09-23 13:29:48,Gateway Stake,Crawford Plains Ward,2,2,124,165,6,759,165,0.1633728590250329,20.666666666666668,4,Crawford Plains,393
+2023-09-23 13:32:07,Gateway Stake,Ellerslie Ward,2,1,50,135,2,419,135,0.1193317422434367,25.0,3,Ellerslie,394
+2023-09-23 13:26:56,Gateway Stake,Silver Berry Ward,1,1,14,45,1,150,45,0.0933333333333333,14.0,2,Silver Berry,395
+2023-09-23 13:30:58,Gateway Stake,Rio Vista Ward,5,8,33,80,3,397,80,0.0831234256926952,11.0,13,Rio Vista,396
+2023-09-23 13:32:16,Gateway Stake,Lee Ridge Ward,1,2,25,45,1,160,120,0.15625,25.0,3,Lee Ridge,397
+2023-09-23 13:30:39,Gateway Stake,Lee Ridge Ward,1,2,15,45,2,162,110,0.0925925925925925,7.5,3,Lee Ridge,398
+2023-09-23 13:02:31,Gateway Stake,Lee Ridge Ward,3,0,22,90,2,158,180,0.1392405063291139,11.0,3,Lee Ridge,399
+2023-09-23 13:58:10,Bonnie Doon Stake,Southgate Ward,5,3,555,90,3,200,90,2.775,185.0,8,Southgate,400
+2023-09-23 13:46:40,Gateway Stake,Ellerslie Ward,2,2,20,60,1,197,60,0.1015228426395939,20.0,4,Ellerslie,401
+2023-09-23 14:25:29,Gateway Stake,Blackmud Creek Ward,2,0,19,45,1,100,220,0.19,19.0,2,Blackmud Creek,402
+2023-09-24 14:04:23,Edmonton North Stake,Stony Plain Ward,2,0,29,60,3,240,120,0.1208333333333333,9.666666666666666,2,Stony Plain,403
+2023-09-23 11:06:47,Gateway Stake,Silver Berry Ward,3,0,35,30,1,250,740,0.14,35.0,3,Silver Berry,404
+2023-09-23 10:55:47,Bonnie Doon Stake,Clareview Ward,1,0,17,60,1,110,60,0.1545454545454545,17.0,1,Clareview,405
+2023-09-23 11:10:31,Bonnie Doon Stake,Clareview Ward,2,0,24,30,1,23,30,1.0434782608695652,24.0,2,Clareview,406
+2023-09-23 11:11:53,Bonnie Doon Stake,Londonderry Ward,2,1,17,30,1,182,30,0.0934065934065934,17.0,3,Londonderry,407
+2023-09-23 11:27:57,Bonnie Doon Stake,Clareview Ward,2,0,9,45,1,195,45,0.0461538461538461,9.0,2,Clareview,408
+2023-09-23 11:30:57,Bonnie Doon Stake,Clareview Ward,1,2,6,45,1,150,45,0.04,6.0,3,Clareview,409
+2023-09-23 11:34:06,Bonnie Doon Stake,Londonderry Ward,2,0,4,10,1,195,10,0.0205128205128205,4.0,2,Londonderry,410
+2023-09-23 11:47:47,Bonnie Doon Stake,Londonderry Ward,1,2,35,45,1,200,45,0.175,35.0,3,Londonderry,411
+2023-09-23 11:56:50,Bonnie Doon Stake,Londonderry Ward,1,0,30,75,2,250,75,0.12,15.0,1,Londonderry,412
+2023-09-23 12:02:07,Bonnie Doon Stake,Londonderry Ward,2,0,28,45,1,185,45,0.1513513513513513,28.0,2,Londonderry,413
+2023-09-23 11:53:24,Bonnie Doon Stake,Londonderry Ward,1,1,30,60,1,100,60,0.3,30.0,2,Londonderry,414
+2023-09-23 12:08:55,Bonnie Doon Stake,Clareview Ward,1,4,40,60,2,400,60,0.1,20.0,5,Clareview,415
+2023-09-23 12:24:58,Bonnie Doon Stake,Clareview Ward,2,2,60,60,3,165,60,0.3636363636363636,20.0,4,Clareview,416
+2023-09-23 12:17:03,Bonnie Doon Stake,Clareview Ward,1,2,25,45,1,135,45,0.1851851851851851,25.0,3,Clareview,417
+2023-09-23 12:42:27,Bonnie Doon Stake,Clareview Ward,3,1,25,60,1,25,60,1.0,25.0,4,Clareview,418
+2023-09-23 12:20:56,Bonnie Doon Stake,Londonderry Ward,2,0,15,20,1,50,20,0.3,15.0,2,Londonderry,419
+2023-09-23 12:30:40,Bonnie Doon Stake,Londonderry Ward,2,0,5,15,1,218,15,0.0229357798165137,5.0,2,Londonderry,420
+2023-09-23 10:44:10,Bonnie Doon Stake,Londonderry Ward,1,0,2,5,1,1,5,2.0,2.0,1,Londonderry,421
+2023-09-23 10:51:08,Bonnie Doon Stake,Londonderry Ward,2,0,32,45,1,27,45,1.1851851851851851,32.0,2,Londonderry,422
+2023-09-23 11:01:08,Bonnie Doon Stake,Londonderry Ward,2,2,12,30,1,12,30,1.0,12.0,4,Londonderry,423
+2023-09-23 11:07:50,Bonnie Doon Stake,Clareview Ward,1,1,36,45,1,15,45,2.4,36.0,2,Clareview,424
+2023-09-23 11:14:37,Bonnie Doon Stake,Londonderry Ward,2,2,11,35,1,116,35,0.0948275862068965,11.0,4,Londonderry,425
+2023-09-23 11:27:42,Bonnie Doon Stake,Clareview Ward,2,0,34,60,2,32,60,1.0625,17.0,2,Clareview,426
+2023-09-23 11:49:10,Bonnie Doon Stake,Clareview Ward,2,0,3,3,1,195,3,0.0153846153846153,3.0,2,Clareview,427
+2023-09-23 11:53:25,Bonnie Doon Stake,Clareview Ward,1,5,25,45,1,25,45,1.0,25.0,6,Clareview,428
+2023-09-23 11:57:33,Bonnie Doon Stake,Londonderry Ward,4,0,17,30,1,17,30,1.0,17.0,4,Londonderry,429
+2023-09-23 12:12:42,Bonnie Doon Stake,Londonderry Ward,2,2,39,60,1,195,60,0.2,39.0,4,Londonderry,430
+2023-09-23 12:22:04,Bonnie Doon Stake,Clareview Ward,3,1,30,60,1,195,60,0.1538461538461538,30.0,4,Clareview,431
+2023-09-23 12:28:31,Bonnie Doon Stake,Clareview Ward,1,0,55,180,1,225,180,0.2444444444444444,55.0,1,Clareview,432
+2023-09-23 12:42:05,Bonnie Doon Stake,Clareview Ward,4,0,200,240,7,607,240,0.329489291598023,28.571428571428573,4,Clareview,433
+2023-09-23 12:03:51,Gateway Stake,Ellerslie Ward,2,4,40,37,1,207,37,0.1932367149758454,40.0,6,Ellerslie,434
+2023-09-23 11:29:41,Bonnie Doon Stake,Coronation Park Ward,1,1,38,90,2,300,90,0.1266666666666666,19.0,2,Coronation Park,435
+2023-09-23 11:33:17,Edmonton North Stake,Stony Plain Ward,1,0,30,47,2,155,47,0.1935483870967742,15.0,1,Stony Plain,436
+2023-09-23,Edmonton North Stake,Belmead Ward,1,3,55,195,1,279,195,0.1971326164874552,55.0,13,Belmead,437
+2023-09-23,Edmonton North Stake,Belmead Ward,2,0,39,120,1,313,120,0.1246006389776357,39.0,20,Belmead,438
+2023-09-23,Edmonton North Stake,Belmead Ward,3,0,12,180,1,161,180,0.0745341614906832,12.0,30,Belmead,439
+2023-09-23,Edmonton North Stake,Belmead Ward,2,1,30,59,1,316,65,0.0949367088607595,30.0,5,Belmead,440
+2023-09-23,Edmonton North Stake,Belmead Ward,2,0,26,75,1,187,75,0.1390374331550802,26.0,20,Belmead,441
+2023-09-23,Edmonton North Stake,Belmead Ward,2,1,57,59,1,226,65,0.252212389380531,57.0,5,Belmead,442
+2023-09-23,Edmonton North Stake,Belmead Ward,2,1,71,59,1,343,65,0.2069970845481049,71.0,5,Belmead,443
+2023-09-23,Edmonton North Stake,Belmead Ward,2,3,54,135,1,272,135,0.1985294117647058,54.0,23,Belmead,444
+2023-09-23,Edmonton North Stake,Belmead Ward,2,1,27,59,1,298,65,0.0906040268456375,27.0,5,Belmead,445
+2023-09-23,Edmonton North Stake,Belmead Ward,1,2,25,135,1,245,135,0.1020408163265306,25.0,12,Belmead,446
+2023-09-23,Edmonton North Stake,Belmead Ward,2,1,35,59,1,239,65,0.1464435146443514,35.0,5,Belmead,447
+2023-09-23,Edmonton North Stake,Belmead Ward,2,0,19,75,1,264,75,0.0719696969696969,19.0,20,Belmead,448
+2023-09-23,Edmonton North Stake,Belmead Ward,2,3,21,45,1,289,45,0.0726643598615917,21.0,23,Belmead,449
+2023-09-23,Edmonton North Stake,Belmead Ward,4,0,31,75,1,267,75,0.1161048689138576,31.0,40,Belmead,450
+2023-09-23,Edmonton North Stake,Belmead Ward,2,1,12,59,1,200,65,0.06,12.0,5,Belmead,451
+2023-09-23,Edmonton North Stake,Belmead Ward,2,0,17,75,1,303,75,0.0561056105610561,17.0,20,Belmead,452
+2023-09-23,Edmonton North Stake,Belmead Ward,1,0,35,105,1,288,105,0.1215277777777777,35.0,10,Belmead,453
+2023-09-23,Edmonton North Stake,Belmead Ward,2,0,35,60,1,257,60,0.1361867704280155,35.0,20,Belmead,454
+2023-09-23,Edmonton North Stake,Belmead Ward,2,1,17,59,1,186,65,0.0913978494623656,17.0,5,Belmead,455
+2023-09-23,Edmonton North Stake,Belmead Ward,3,0,25,60,1,219,60,0.1141552511415525,25.0,30,Belmead,456
+2023-09-23,Edmonton North Stake,Belmead Ward,1,1,20,60,1,280,60,0.0714285714285714,20.0,11,Belmead,457
+2023-09-23,Edmonton North Stake,Belmead Ward,1,2,31,150,1,284,150,0.1091549295774647,31.0,12,Belmead,458
+2023-09-23,Edmonton North Stake,Belmead Ward,1,3,80,120,1,296,120,0.2702702702702703,80.0,13,Belmead,459
+2023-09-23,Edmonton North Stake,Belmead Ward,2,1,20,59,1,234,65,0.0854700854700854,20.0,5,Belmead,460
+2023-09-23,Edmonton North Stake,Belmead Ward,2,1,28,59,1,264,65,0.106060606060606,28.0,5,Belmead,461
+2023-09-23,Edmonton North Stake,Belmead Ward,1,3,13,60,1,210,60,0.0619047619047619,13.0,13,Belmead,462
+2023-09-23,Edmonton North Stake,Belmead Ward,2,1,13,59,1,289,65,0.0449826989619377,13.0,5,Belmead,463
+2023-09-23,Edmonton North Stake,Belmead Ward,2,0,47,105,1,268,105,0.1753731343283582,47.0,20,Belmead,464
+2023-09-23,Edmonton North Stake,Belmead Ward,1,0,14,60,1,254,60,0.0551181102362204,14.0,10,Belmead,465
+2023-09-23,Edmonton North Stake,Belmead Ward,2,2,45,195,1,240,195,0.1875,45.0,22,Belmead,466
+2023-09-23,Edmonton North Stake,Belmead Ward,2,1,40,59,1,288,65,0.1388888888888889,40.0,5,Belmead,467
+2023-09-23,Edmonton North Stake,Belmead Ward,2,8,32,135,1,288,135,0.1111111111111111,32.0,28,Belmead,468
+2023-09-23,Edmonton North Stake,Belmead Ward,2,1,47,59,1,213,65,0.2206572769953051,47.0,5,Belmead,469
+2023-09-23,Edmonton North Stake,Belmead Ward,2,0,63,180,1,328,180,0.1920731707317073,63.0,20,Belmead,470
+2023-09-23,Edmonton North Stake,Belmead Ward,1,0,23,135,1,281,135,0.0818505338078291,23.0,10,Belmead,471
+2023-09-23,Edmonton North Stake,Belmead Ward,2,1,31,90,1,256,90,0.12109375,31.0,21,Belmead,472
+2023-09-23,Edmonton North Stake,Belmead Ward,1,0,33,120,1,297,120,0.1111111111111111,33.0,10,Belmead,473
+2023-09-23,Edmonton North Stake,Belmead Ward,2,3,61,150,1,284,150,0.2147887323943662,61.0,23,Belmead,474
+2023-09-23,Edmonton North Stake,Belmead Ward,2,3,37,120,1,275,120,0.1345454545454545,37.0,23,Belmead,475
+2023-09-23,Edmonton North Stake,Belmead Ward,0,2,30,120,1,267,120,0.1123595505617977,30.0,2,Belmead,476
+2023-09-23,Edmonton North Stake,Belmead Ward,2,1,18,59,1,275,65,0.0654545454545454,18.0,5,Belmead,477
+2023-09-23,Edmonton North Stake,Belmead Ward,3,1,38,75,1,278,75,0.1366906474820144,38.0,31,Belmead,478
+2023-09-23,Edmonton North Stake,Belmead Ward,1,0,22,120,1,237,120,0.0928270042194092,22.0,10,Belmead,479
+2023-09-23,Edmonton North Stake,Belmead Ward,2,2,25,90,1,228,90,0.1096491228070175,25.0,22,Belmead,480
+2023-09-23,Edmonton North Stake,Belmead Ward,2,1,24,150,1,216,150,0.1111111111111111,24.0,21,Belmead,481
+2023-09-23,Edmonton North Stake,Belmead Ward,2,1,37,59,1,217,65,0.1705069124423963,37.0,5,Belmead,482
+2023-09-23,Edmonton North Stake,Belmead Ward,2,1,22,59,1,234,65,0.094017094017094,22.0,5,Belmead,483
+2023-09-23,Edmonton North Stake,Belmead Ward,2,1,26,59,1,237,65,0.1097046413502109,26.0,5,Belmead,484
+2023-09-23,Edmonton North Stake,Belmead Ward,1,2,15,45,1,153,45,0.0980392156862745,15.0,12,Belmead,485
+2023-09-23,Edmonton North Stake,Belmead Ward,2,1,16,59,1,300,65,0.0533333333333333,16.0,5,Belmead,486
+2023-09-23,Edmonton North Stake,Belmead Ward,2,0,28,120,1,273,120,0.1025641025641025,28.0,20,Belmead,487
+2023-09-23,Edmonton North Stake,Belmead Ward,2,1,29,59,1,201,65,0.1442786069651741,29.0,5,Belmead,488
+2023-09-23,Edmonton North Stake,Belmead Ward,2,1,27,59,1,255,65,0.1058823529411764,27.0,5,Belmead,489
+2023-09-23,Edmonton North Stake,Belmead Ward,2,0,18,60,1,207,60,0.0869565217391304,18.0,20,Belmead,490
+2023-09-23,Edmonton North Stake,Belmead Ward,1,2,16,30,1,201,30,0.0796019900497512,16.0,12,Belmead,491
+2023-09-23,Edmonton North Stake,Belmead Ward,1,1,30,105,1,219,105,0.136986301369863,30.0,11,Belmead,492
+2023-09-23,Edmonton North Stake,Belmead Ward,2,1,30,59,1,154,65,0.1948051948051948,30.0,5,Belmead,493
+2023-09-23,Edmonton North Stake,Belmead Ward,1,2,31,105,1,289,105,0.1072664359861591,31.0,12,Belmead,494
+2023-09-23,Edmonton North Stake,Belmead Ward,2,1,53,59,1,320,65,0.165625,53.0,5,Belmead,495
+2023-09-23,Edmonton North Stake,Belmead Ward,1,1,16,75,1,273,75,0.0586080586080586,16.0,11,Belmead,496
+2023-09-23,Edmonton North Stake,Belmead Ward,2,1,33,59,1,293,65,0.1126279863481228,33.0,5,Belmead,497
+2023-09-23,Edmonton North Stake,Belmead Ward,1,1,15,45,1,195,45,0.0769230769230769,15.0,11,Belmead,498
+2023-09-23,Edmonton North Stake,Belmead Ward,2,1,15,59,1,155,65,0.0967741935483871,15.0,5,Belmead,499
+2023-09-23,Edmonton North Stake,Belmead Ward,3,0,43,60,1,293,60,0.1467576791808873,43.0,30,Belmead,500
+2023-09-23,Edmonton North Stake,Belmead Ward,2,3,38,150,1,305,150,0.1245901639344262,38.0,23,Belmead,501
+2023-09-23,Edmonton North Stake,Belmead Ward,1,1,38,45,1,299,45,0.1270903010033444,38.0,11,Belmead,502
+2023-09-23,Edmonton North Stake,Belmead Ward,1,1,30,60,1,273,60,0.1098901098901098,30.0,11,Belmead,503
+2023-09-23,Edmonton North Stake,Belmead Ward,2,3,19,75,1,281,75,0.0676156583629893,19.0,23,Belmead,504
