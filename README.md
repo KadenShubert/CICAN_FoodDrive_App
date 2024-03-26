@@ -16,11 +16,12 @@ Welcome to the repository for a deployed streamlit app that utilizes data and a 
 
 The repository contains the following files:
 
-* FoodDrive_demo_main.py: This file is being pulled by streamlit and is the main code of the app.
+* CICAN_FoodDrive_demo_main.py: This file is being pulled by streamlit and is the main code of the app.
 * combined_data.csv: This is the dataset being used for EDA and pulling dropdown values from, and it contains the collected and formatted food drive data
-* random_forest_classifier_model.pkl: This is a train random forest model that predicts if a given route will take more than 1 hour to complete.
+* random_forest_regressor_model.pkl: This is a trained random forest regression model that predicts how long a given set of routes will take.
+* random_forest_regressor_model_bags.pkl: This is a trained random forest regression model that predicts how many bags a given set of routes will yield.
 * requirements.txt: Contains a list of required packages to be installed to properly run the main file.
-* Logo.png: NorQuest College Logo displayed within the app.
+* Untitled design.jpg: Image displayed on the dashboard page of the app.
 
 ### Team Members
 
